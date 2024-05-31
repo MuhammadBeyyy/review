@@ -1,0 +1,10 @@
+echo "# review" >> README.md
+git init // to  initialise git in my local environment or initialise empty  git repo
+git add README.md //To create a read me
+git add git.html //To add a single file
+git add. // To add all the files in my environment
+git status / to check or track the record of files that have been added.
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/muhammadbeyy/review.git
+git push -u origin main
